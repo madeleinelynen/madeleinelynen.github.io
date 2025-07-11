@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5a86173.css",
-    "main.js": "/static/js/main.1178fdd8.js",
+    "main.css": "/static/css/main.24ca4bf4.css",
+    "main.js": "/static/js/main.2c469f16.js",
     "static/js/453.41811d64.chunk.js": "/static/js/453.41811d64.chunk.js",
     "static/media/Screenshot_Ocean_2.png": "/static/media/Screenshot_Ocean_2.075c3ceda819594e8c31.png",
     "static/media/Banner.png": "/static/media/Banner.08a9bed93ac469b597f9.png",
@@ -58,7 +58,6 @@
     "static/media/HoverTile.png": "/static/media/HoverTile.2a7096eb15c041196269.png",
     "static/media/Oddy-07.jpg": "/static/media/Oddy-07.24300e16675c507bbd7b.jpg",
     "static/media/Flamecoach2_UI_Playlist_1.2.png": "/static/media/Flamecoach2_UI_Playlist_1.2.364f34c69c51c359511e.png",
-    "static/media/Flamecoach2_UI_Playlist_1.1.png": "/static/media/Flamecoach2_UI_Playlist_1.1.0367c4aa288e98404ead.png",
     "static/media/Flamecoach2Tile.png": "/static/media/Flamecoach2Tile.e05c460175a49a3b5a47.png",
     "static/media/OddyHoveringTile.png": "/static/media/OddyHoveringTile.b9939761b0868b47d800.png",
     "static/media/Flamecoach2HoverTile.png": "/static/media/Flamecoach2HoverTile.f925a97b1669fbf14384.png",
@@ -79,12 +78,12 @@
     "static/media/Grayson-Regular.woff": "/static/media/Grayson-Regular.0ed4c3925a5391db0291.woff",
     "static/media/Grayson-Regular.woff2": "/static/media/Grayson-Regular.1151ab218cc57402e44c.woff2",
     "index.html": "/index.html",
-    "main.c5a86173.css.map": "/static/css/main.c5a86173.css.map",
-    "main.1178fdd8.js.map": "/static/js/main.1178fdd8.js.map",
+    "main.24ca4bf4.css.map": "/static/css/main.24ca4bf4.css.map",
+    "main.2c469f16.js.map": "/static/js/main.2c469f16.js.map",
     "453.41811d64.chunk.js.map": "/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5a86173.css",
-    "static/js/main.1178fdd8.js"
+    "static/css/main.24ca4bf4.css",
+    "static/js/main.2c469f16.js"
   ]
 }
