@@ -2,6 +2,12 @@
 <html lang="de">
   <head>
     <meta charset="utf-8" />
+    <script>
+      try {
+        const theme = localStorage.getItem('portfolio-theme');
+        if (theme === 'light' || theme === 'dark') document.documentElement.dataset.theme = theme;
+      } catch {}
+    </script>
     <base href="/" />
     <link rel="preload" href="/assets/Grayson-Regular-DZ1Vp-mL.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -14,8 +20,8 @@
     <link rel="apple-touch-icon" href="/logo192.png" />
     <link rel="manifest" href="/manifest.json" />
     <title>Madeleine Lynen – Portfolio</title>
-    <script type="module" crossorigin src="/assets/index-75RsWY74.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-BQwbwRBx.css">
+    <script type="module" crossorigin src="/assets/index-DIrHmPHi.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DmF8c5ak.css">
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
